@@ -1,2 +1,2 @@
-## First Chrome extension
+## First Chrome Extension
 Link Saver
